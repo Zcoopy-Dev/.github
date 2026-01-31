@@ -35,7 +35,7 @@ We follow a battle-tested 4-step framework to ensure every project is a success:
 ## 🚀 Tech Stack
 We use modern, industry-leading technologies to build the future:
 * **Frontend:** React, Next.js, Vue, Tailwind CSS
-* **Backend:** Node.js, Python, Go, PostgreSQL
+* **Backend:** Node.js, Python, Go, PostgreSQL, Firebase, Supabase, Appwrite
 * **Mobile:** Flutter, React Native, Swift, Kotlin
 * **Cloud:** AWS, Google Cloud, Azure, Docker
 

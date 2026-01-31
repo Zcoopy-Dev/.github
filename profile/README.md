@@ -45,7 +45,7 @@ We use modern, industry-leading technologies to build the future:
 * **Scalability First:** We build systems that grow with your user base.
 * **Transparent Communication:** You are part of the process every step of the way.
 * **Code Quality:** Clean, documented, and maintainable codebases.
-* **Founder-Led:** Founded by **[Muhammad Zain]**, Zcoopy Dev is built on a foundation of technical excellence and business integrity.
+* **Founder-Led:** Founded by **Muhammad Zain**, Zcoopy Dev is built on a foundation of technical excellence and business integrity.
 
 ---
 
